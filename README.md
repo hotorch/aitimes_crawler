@@ -75,4 +75,4 @@ streamlit run app.py
 - **OpenAI**: GPT를 활용한 텍스트 요약
 - **Requests**: HTTP 요청 처리
 - **ReportLab**: PDF 리포트 생성
-- **Markdown**: 마크다운 텍스트 처리 
+- **Markdown**: 마크다운 텍스트 처리
